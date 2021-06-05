@@ -14,8 +14,20 @@
     background: #ff7f7f;
  }
  
- .tabs {
+.tabs {
     margin-bottom: 20px;
+} 
+
+.dispNone {
+    display: none;
+}
+
+.dispBlock {
+    display: block;
+}
+
+.red {
+    color: red;
 } 
 
  @keyframes app-logo-spin {
