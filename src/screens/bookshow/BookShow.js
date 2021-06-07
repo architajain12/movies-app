@@ -60,7 +60,8 @@ class BookShow extends Component {
     }
 
     ticketsChangeHandler = (event) => {
-        this.setState({ tickets: event.target.value })
+        this.setState({ tickets: event.target.value });
+        console.log('Hi')
     }
 
     bookShowButtonHandler = () => {
