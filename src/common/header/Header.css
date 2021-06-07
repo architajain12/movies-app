@@ -43,3 +43,8 @@
 @keyframes app-logo-spin {
     from { transform: scaleX(-1); }
 } 
+
+.bookshow-button {
+    float: right;
+    margin-right: 8px;
+}
